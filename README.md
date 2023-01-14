@@ -1,15 +1,14 @@
 # Keyboards
 
-### Features
+The keymaps/config files of my three keyboards. They all have:
 - Two layers (one with most used letters, numbers and symbols and a second one with light controls and media playback)
 - Auto-shift if you hold a key (minimizes pain on the pinky finger)
-- Made to be used with the Portuguese layout to let me write special characters (like ç, é, ã, ê)
-
+- And were made to be used with the Portuguese layout, to let me write "special" characters (like ç, é, ã, ê)
 
 
 ## YMD40 (the "lego keyboard")
 
-The v1 of [this keyboard off AliExpress](https://www.aliexpress.com/item/32821953148.html?gatewayAdapt=glo2bra), that has a slightly larger spacebar. Nicknamed the "lego keyboard" by my mom. [Here](https://drive.google.com/file/d/1h5RA14a_WeWlXNpFgBsr-QJrQNSs6d7s/view) is the user manual.
+I have the v1 of [this keyboard off AliExpress](https://www.aliexpress.com/item/32821953148.html?gatewayAdapt=glo2bra), that has a slightly larger spacebar. Nicknamed the "lego keyboard" by my mom. [Here](https://drive.google.com/file/d/1h5RA14a_WeWlXNpFgBsr-QJrQNSs6d7s/view) is the user manual.
 
 <img src="https://github.com/sofiafrocha/keyboards/blob/main/images/keyboard-lego-layers.png?raw=true" alt="keymap of ymd40 keyboard" style="zoom: 67%;" />
 
